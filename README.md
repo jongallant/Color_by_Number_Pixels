@@ -1,4 +1,4 @@
-# Color_by_Number_Pixels
+# Paint-by-number with Pixel art for Unity
 A color by number implementation in Unity for Pixel Art.
 
 Work in progress. 
